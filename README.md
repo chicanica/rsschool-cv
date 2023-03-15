@@ -1,1 +1,4 @@
-https://github.com/chicanica/rsschool-cv/blob/gh-pages/cv.md
+#Hello, It's my CV!
+###https://chicanica.github.io/rsschool-cv/
+
+
