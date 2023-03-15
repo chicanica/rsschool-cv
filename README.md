@@ -1,1 +1,3 @@
-https://github.com/chicanica/rsschool-cv/blob/gh-pages/cv.md
+https://chicanica.github.io/rsschool-cv/
+
+
